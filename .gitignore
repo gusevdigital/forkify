@@ -1,0 +1,4 @@
+node_modules
+.prettierrc
+.parcel-cache
+.DS_Store
